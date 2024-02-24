@@ -1,2 +1,2 @@
 # This is project about API
-## App to send news via email
+## This app access news about a particular topic and sends them by email.
